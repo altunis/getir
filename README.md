@@ -6,5 +6,7 @@
 
 3 ) MVC mimarisine uygun tasarım yapılmıştır. Ana classlar src/main/java klasörü altındadır.
 
+4 ) Projeyi çalıştırmak için klasörün içerisinde maven build edildikten sonra, target klasörü içerisine gidilip "java -jar readingisgood" komutu uygulanabilir.
+
 
 
